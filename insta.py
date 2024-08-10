@@ -3,7 +3,7 @@ import cropfile as cp
 import os
 
 username = "your_user_name"
-password = "instabot2"
+password = "your_password"
 
 client = Client()
 client.login(username, password)
